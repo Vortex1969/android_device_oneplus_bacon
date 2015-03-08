@@ -22,3 +22,8 @@ ro.gps.agps_provider=1
 
 # cabl is handled by the panel
 ro.qualcomm.cabl=0
+
+# GCC Build Prop Lines
+ro.sm.flags=Krait
+ro.sm.android=4.8-SaberMod
+ro.sm.kernel=4.9-Linaro
